@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AutoTapper</string>
+    <string name="service_description">Taps the screen automatically when started.</string>
+    <string name="toggle_start">Start Auto Tap</string>
+    <string name="toggle_stop">Stop Auto Tap</string>
+</resources>
